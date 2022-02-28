@@ -1,6 +1,6 @@
 # searx-heroku
 
-Deploy [searx](https://searx.github.io/searx) on [heroku](https://heroku.com)
+Deploy [searxng](https://docs.searxng.org) on [heroku](https://heroku.com)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yellowhat/searx-heroku/tree/main)
 
